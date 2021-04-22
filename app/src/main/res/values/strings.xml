@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ExampleNavGraph</string>
+    <string name="hello_second_fragment">Hello second fragment</string>
+</resources>
